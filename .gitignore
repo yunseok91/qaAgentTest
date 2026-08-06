@@ -1,0 +1,16 @@
+# 분석 결과물 (매번 재생성)
+output/
+
+# IDE & 임시 파일
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+.vscode/settings.json
+
+# Python 환경
+venv/
+.env
+
+# OS 파일
+Thumbs.db
